@@ -1,2 +1,2 @@
 # tcp-server-and-client-scripts
-In this repository is present: the script in python to create the TCP server and the script in python to create the TCP client.
+This is my very first project that I am sharing on Github, I wrote two simple scripts on Python that allow to enforce communication between a client and a server via TCP protocol. 
